@@ -1,2 +1,49 @@
 # go-football-booking-system
-The "Go Football Booking System" is a project aimed at providing an online platform for booking football playgrounds. It is built using Spring Boot and includes several features for managing bookings, user authentication, and playground information. The system allows both customers and owners to interact with the platform, where customers can book playgrounds and owners can manage their playgrounds and bookings. The project includes various entities such as `Customer`, `Owner`, `PlayGround`, and `BookingDetails`, and implements JWT for authentication.
+For your GitHub repository's README file, you can use the following structure and content:
+
+---
+
+# Go Football Booking System
+
+## Description
+
+The Go Football Booking System is a web application designed to facilitate the booking of football playgrounds. The platform supports two types of users: Customers and Owners. Customers can search for and book playgrounds, while Owners can manage their playground listings and view bookings.
+
+## Features
+
+- User Registration and Authentication
+- Role-based Access Control (Customer and Owner)
+- JWT Token-based Authentication
+- Search for Playground by Location and Availability
+- Book Playground Slots
+- Manage Bookings
+- View Booking Details
+
+## Technologies Used
+
+- Java
+- Spring Boot
+- Spring Security
+- JWT for Authentication
+- JPA/Hibernate
+- MySQL
+- Maven
+
+
+
+
+## Usage
+
+- Access the application at `http://localhost:8080`
+- Register as a Customer or Owner
+- Login to access features based on your role
+- Customers can search and book playgrounds
+- Owners can manage their playgrounds and view bookings
+
+
+
+## Contact
+
+For any inquiries or support, please contact [mohamedahmerd78@gmail.com].
+
+
