@@ -1,9 +1,4 @@
 # go-football-booking-system
-For your GitHub repository's README file, you can use the following structure and content:
-
----
-
-# Go Football Booking System
 
 ## Description
 
