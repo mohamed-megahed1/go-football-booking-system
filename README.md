@@ -9,7 +9,7 @@ The Go Football Booking System is a web application designed to facilitate the b
 - User Registration and Authentication
 - Role-based Access Control (Customer and Owner)
 - JWT Token-based Authentication
-- Search for Playground by Location and Availability
+- Search for Playground by Location ,name ,capacity
 - Book Playground Slots
 - Manage Bookings
 - View Booking Details
